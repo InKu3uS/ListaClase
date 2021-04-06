@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Listaclase,es.iespuertodelacruz.nefta.exceptions,AlumnoException,5,4,0,0,2,2,1,1,1,1
+Listaclase,es.iespuertodelacruz.nefta.exceptions,FicheroException,9,0,0,0,4,0,2,0,2,0
+Listaclase,es.iespuertodelacruz.nefta.elementos,Persona,9,9,0,0,4,4,3,1,3,1
+Listaclase,es.iespuertodelacruz.nefta.elementos,Alumno,0,31,0,0,0,5,0,3,0,3
+Listaclase,es.iespuertodelacruz.nefta.elementos,Profesor,5,0,0,0,2,0,1,0,1,0
+Listaclase,es.iespuertodelacruz.nefta,Clase.new HashMap() {...},0,16,0,0,0,2,0,2,0,2
+Listaclase,es.iespuertodelacruz.nefta,Fichero,108,26,9,1,31,8,9,2,4,2
+Listaclase,es.iespuertodelacruz.nefta,Clase,0,74,1,5,0,21,1,9,0,7
